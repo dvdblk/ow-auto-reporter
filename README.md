@@ -2,8 +2,8 @@
 Automatically reports a hovered player for selected reasons.
 
 Features:
-    * Customizable report reasons
-    * Works with all window sizes (in-game resolutions)
+  * Customizable report reasons
+  * Works with all window sizes (in-game resolutions)
 
 ## Installation
 
